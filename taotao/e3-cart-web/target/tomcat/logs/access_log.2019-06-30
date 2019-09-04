@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:45:08 +0800] "GET /cart/add/155989635778929.html?num=1 HTTP/1.1" 200 18544 http-bio-8093-exec-1 727
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:45:17 +0800] "GET /cart/add/155989635778929.html?num=1 HTTP/1.1" 200 18544 http-bio-8093-exec-3 7
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:46:37 +0800] "GET /cart/add/155989635778929.html?num=1 HTTP/1.1" 200 18544 http-bio-8093-exec-1 549
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:46:38 +0800] "GET /cart/cart.html HTTP/1.1" 200 17917 http-bio-8093-exec-2 419
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:49:22 +0800] "GET /cart/add/155989635778929.html?num=1 HTTP/1.1" 200 18544 http-bio-8093-exec-4 5
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:49:23 +0800] "GET /cart/cart.html HTTP/1.1" 200 17917 http-bio-8093-exec-5 8
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:52:16 +0800] "GET /cart/cart.html HTTP/1.1" 200 17917 http-bio-8093-exec-7 5
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:16:52:17 +0800] "GET /cart/cart.html HTTP/1.1" 200 17917 http-bio-8093-exec-8 3
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:17:07:14 +0800] "GET /cart/add/1138760.html?num=1 HTTP/1.1" 200 18544 http-bio-8093-exec-10 25
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:17:07:14 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8093-exec-1 1
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:17:07:15 +0800] "GET /cart/cart.html HTTP/1.1" 200 19711 http-bio-8093-exec-1 4

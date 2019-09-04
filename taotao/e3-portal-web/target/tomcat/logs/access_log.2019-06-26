@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:02:52 +0800] "GET /js/e3mall.js HTTP/1.1" 200 644 http-bio-8085-exec-2 41
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:02:52 +0800] "GET / HTTP/1.1" 200 104088 http-bio-8085-exec-1 2703
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:02:54 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-4 1
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:05:11 +0800] "GET /search.html?keyword=mate HTTP/1.1" 404 949 http-bio-8085-exec-8 3
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:05:11 +0800] "GET /search.html?keyword=mate HTTP/1.1" 404 949 http-bio-8085-exec-9 1

@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:39:43 +0800] "GET /page/login HTTP/1.1" 200 10136 http-bio-8091-exec-1 261
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:39:43 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8091-exec-3 3
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:39:46 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8091-exec-4 1296
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:39:47 +0800] "GET /images/productinfo.png HTTP/1.1" 404 949 http-bio-8091-exec-5 455
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:39:48 +0800] "GET /user/token/15dd53be-d17a-4d55-9f1d-33ecf74b940c?callback=jsonp1562596788061 HTTP/1.1" 200 194 http-bio-8091-exec-2 55
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:40:04 +0800] "GET /user/token/15dd53be-d17a-4d55-9f1d-33ecf74b940c?callback=jQuery151011405015685592645_1562596804305&_=1562596804409 HTTP/1.1" 200 217 http-bio-8091-exec-8 6
+0:0:0:0:0:0:0:1 - - [08/Jul/2019:22:40:31 +0800] "GET /user/token/15dd53be-d17a-4d55-9f1d-33ecf74b940c?callback=jQuery15105091044905552704_1562596831554&_=1562596831853 HTTP/1.1" 200 216 http-bio-8091-exec-10 5

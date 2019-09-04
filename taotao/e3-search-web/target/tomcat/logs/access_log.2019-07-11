@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [11/Jul/2019:00:38:45 +0800] "GET /search.html?keyword=one+plus HTTP/1.1" 200 81803 http-bio-8086-exec-1 1844
+0:0:0:0:0:0:0:1 - - [11/Jul/2019:00:38:45 +0800] "GET /js/e3mall.js HTTP/1.1" 304 - http-bio-8086-exec-2 54
+0:0:0:0:0:0:0:1 - - [11/Jul/2019:00:38:45 +0800] "GET /images/productList.png HTTP/1.1" 404 995 http-bio-8086-exec-4 57
+0:0:0:0:0:0:0:1 - - [11/Jul/2019:00:40:24 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-6 1

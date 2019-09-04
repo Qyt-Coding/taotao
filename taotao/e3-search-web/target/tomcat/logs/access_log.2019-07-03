@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /search.html?keyword=mate HTTP/1.1" 200 29572 http-bio-8086-exec-1 2319
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /js/e3mall.js HTTP/1.1" 304 - http-bio-8086-exec-2 96
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/cate_bg.jpg HTTP/1.1" 304 - http-bio-8086-exec-8 22
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/productList.png HTTP/1.1" 404 995 http-bio-8086-exec-9 1
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/bottom_sm.png HTTP/1.1" 304 - http-bio-8086-exec-5 156
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/kxicon.jpg HTTP/1.1" 304 - http-bio-8086-exec-4 167
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/header.png HTTP/1.1" 304 - http-bio-8086-exec-6 164
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8086-exec-7 99
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/foot_bottom.png HTTP/1.1" 304 - http-bio-8086-exec-5 104
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8086-exec-10 159
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:55:53 +0800] "GET /images/html/logo_word.jpg HTTP/1.1" 304 - http-bio-8086-exec-3 294
+0:0:0:0:0:0:0:1 - - [03/Jul/2019:10:56:00 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-9 1

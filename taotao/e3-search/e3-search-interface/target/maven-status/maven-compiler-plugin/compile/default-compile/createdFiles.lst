@@ -1,0 +1,3 @@
+cn\search\service\ItemSearch.class
+cn\search\service\Solr.class
+cn\search\service\SearchItemAndShow.class

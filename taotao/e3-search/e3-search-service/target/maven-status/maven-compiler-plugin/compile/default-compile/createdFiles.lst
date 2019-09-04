@@ -1,0 +1,7 @@
+cn\search\service\impl\SolrImp.class
+cn\search\service\dao\SearchDao.class
+cn\search\service\activeMq\MessageTest.class
+cn\search\service\impl\ItemMapperImpl.class
+cn\search\service\impl\SearchItemAndShowImpl.class
+cn\search\service\Mapper\ItemMapper.class
+cn\search\service\MessageListener1\Message1.class
